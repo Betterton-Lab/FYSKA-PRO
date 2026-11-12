@@ -4,7 +4,7 @@ FYSKA-PRO is an extended version of the original FYSKA, with additional capabili
 
 The original FYSKA remains unchanged to preserve code stability and reproducibility of previously published research.
 
-This repository was made public early to provide a software reference for Luke Zhou's PhD dissertation.
+This repository was made public early to provide a software reference for Bojun Zhou's PhD dissertation.
 
 **Development status (November 11, 2026):**
 
