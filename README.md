@@ -14,3 +14,5 @@ A complete README and documentation are coming soon!
 
 **Planned features:**
 - A dedicated graphical user interface (GUI).
+- A standalone Windows executable (.exe) for public release.
+- Integration with Fiji (ImageJ) as a plugin.
