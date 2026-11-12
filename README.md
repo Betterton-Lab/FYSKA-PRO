@@ -16,3 +16,8 @@ A complete README and documentation are coming soon!
 - A dedicated graphical user interface (GUI).
 - A standalone Windows executable (.exe) for public release.
 - Integration with Fiji (ImageJ) as a plugin.
+
+
+
+Copyright © 2026 Betterton Lab. All rights reserved.
+No permission is granted to copy, modify, or redistribute this software without prior written authorization.
