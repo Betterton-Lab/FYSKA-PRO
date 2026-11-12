@@ -4,20 +4,7 @@ clear; clc; close all;
 addpath(genpath(pwd)); 
 
 % 1. Load Master Configuration
-% config_FYSKA; 
-% config_mb1151_260630_100730
-% config_mb1398_250207_173804
-% config_1316_005_A;
-% config_1302_003_C;
-% config_1302_005_B;
-% config_1302_006_A;
-% config_1302_013_A;
-% config_1302_018_C;
-config_1302_019_A;
-% config_1302_020_D;
-% config_phospho_5A;
-% config_1149_005_B
-% config_1149_003_D
+config_FYSKA; 
 
 % 2. Load Stacks & Auto-Detect Calibration Metadata
 [movies3D, cfg] = loadAndPrepareData(cfg);
